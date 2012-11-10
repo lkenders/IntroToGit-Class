@@ -5,4 +5,4 @@ This ReadMe will introduce you to:
 * Topic 2
 * Topic 3
 
-This is *not* a complete introduction.
+This is __not__ a complete introduction.
